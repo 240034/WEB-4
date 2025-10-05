@@ -1,0 +1,91 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#f5f5dc ;
+}
+
+.welcome {
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-weight: bold;
+    background-color: #4b2e2e;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+    align-content: space-around;
+}
+
+.explore{
+    color: #4b2e2e;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+.navbar-brand, .nav-link {
+    color: #ffffff;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #a67c52;
+    color:#ffffff;
+}
+
+.btn-light{
+    background-color: #ffffff;
+    color:#4b2e2e;
+    border: none;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+h3 {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold ;
+}
+
+.btn {
+    background-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #4b2e2e ;
+}
+
+.image{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.contact{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    background-color: #4b2e2e;
+    text-align: center;
+}
+
+.email {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    background-color: #4b2e2e;
+    text-align: center;
+}
+
+.colle {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #4b2e2e;
+    text-align: center;
+}
